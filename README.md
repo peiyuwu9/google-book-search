@@ -7,7 +7,7 @@ Create an application to practice combination of React,js and MogoDB and Mongoos
 ## Technologies used and why
 **React.js** is a Javascript library used to build browser content.  
 **Javascript** is also used to build user server and communicate with MonogoDB.   
-**axios.js** to request API data.  
+**Axios.js** to request API data.  
 **Node.js** is an environment to execute javascript in terminal.  
 **MongoDB** is a irrelational database used to store data.  
 **Mongoose.js** is used to connect MongoDB.  
